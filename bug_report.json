@@ -1,1 +1,12 @@
-
+{
+  "Environment":"<Description of environment>"
+  "ID":1 ,
+  "Summary":"<What?Where?Why?>"
+  "STR":{
+          "Step1":"<step description>"
+          "Step2":"<step description>"          
+        }
+  "Expected Result":"<Description of expected result>"
+  "Actual Result":"<Description of actual result>"
+  "Attachments":"<link>"
+}
